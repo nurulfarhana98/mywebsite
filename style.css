@@ -1,0 +1,79 @@
+body
+	{
+		background-color:grey;
+	}
+p
+	{
+		font-family: 'Rochester', cursive;
+	}
+h
+	{
+		font-family: forte;
+		font size: 30px;
+
+	}
+
+h1
+	{
+		background-color: skyblue;
+		font-family: harrington;
+		font size: 90px;
+		color: black;
+		border:solid;
+		border-color: black;
+		border-radius: 50px;
+	}
+li
+	{
+		background-color: orange;
+		font-family: forte;
+		color: black;
+		font-size: 20px;
+		border: 2px solid white;
+		padding: 10px;
+		margin: 10px;
+	}
+
+a:link 
+	{
+color: brown;
+background color: transparent;
+text-decoration: none;
+}
+a:visited
+{
+color: brown;
+background color: transparent;
+text-decoration: none;
+}
+a:hover
+{
+color: cadetblue;
+background color: brown;
+text-decoration: none;
+}
+a:active
+{
+color: yellow;
+background color: brown;
+text-decoration: none;
+}
+a:link, a:visited
+{
+background-color:yellow;
+color: black;
+padding: 15px;
+text-align: center;
+text decoration: none;
+display: inline-block;
+border-radius: 15px
+}
+a:hover, a:active
+{
+background-color: purple;
+}
+
+</style>
+</head>
+</body>
+</html>
